@@ -1,0 +1,49 @@
+﻿  main.cpp
+  study_in_pink1.cpp
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(52,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(53,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(70,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(73,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(75,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(89,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(91,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(98,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(100,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(102,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(104,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(107,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(109,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(110,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(113,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(115,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(124,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(126,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(145,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(146,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(147,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(181,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(198,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(216,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(224,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(225,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(230,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(231,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(249,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(252,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(255,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(260,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(261,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(266,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(267,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(270,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(271,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(276,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(277,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(343,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(344,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(345,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(346,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(466,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Documents\initial_btl1\initial\study_in_pink1.cpp(536,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  initial.vcxproj -> C:\Users\ASUS\Documents\initial_btl1\x64\Debug\initial.exe

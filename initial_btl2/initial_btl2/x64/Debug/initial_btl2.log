@@ -1,0 +1,194 @@
+﻿  main.cpp
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(71,52): error C2061: syntax error: identifier 'Position'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(71,165): error C2969: syntax error: ';': expected member function definition to end with '}'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(76,7): error C2059: syntax error: '<class-head>'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(71,165): error C2630: ';' found in what should be a comma-separated list
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(77,1): error C2059: syntax error: 'private'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(79,1): error C2059: syntax error: 'public'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,14): error C2144: syntax error: 'int' should be preceded by ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,5): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,14): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,23): error C2062: type 'int' unexpected
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,30): error C2059: syntax error: ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,14): error C2143: syntax error: missing ')' before 'const'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,5): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,14): error C2143: syntax error: missing ';' before 'const'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,36): error C2059: syntax error: ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,37): error C2530: 'str_pos': references must be initialized
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(86,9): error C2270: 'getRow': modifiers not allowed on nonmember functions
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(87,9): error C2270: 'getCol': modifiers not allowed on nonmember functions
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(91,12): error C2270: 'str': modifiers not allowed on nonmember functions
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(93,10): error C2270: 'isEqual': modifiers not allowed on nonmember functions
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(99,14): error C3646: 'pos': unknown override specifier
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(99,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,44): error C2146: syntax error: missing ')' before identifier 'pos'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,44): error C3646: 'pos': unknown override specifier
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,53): error C2143: syntax error: missing ';' before '*'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,53): error C2059: syntax error: '*'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,82): error C2059: syntax error: ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,83): error C2238: unexpected token(s) preceding ';'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(106,22): error C3646: 'getNextPosition': unknown override specifier
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(106,38): error C2059: syntax error: ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(106,43): error C2238: unexpected token(s) preceding ';'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(107,14): error C3646: 'getCurrentPosition': unknown override specifier
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(107,32): error C2059: syntax error: '('
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(107,40): error C2238: unexpected token(s) preceding ';'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(117,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(117,68): error C2143: syntax error: missing ',' before '&'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(129,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(129,66): error C2143: syntax error: missing ',' before '&'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(141,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(141,40): error C2143: syntax error: missing ',' before '&'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(196,23): error C2039: 'getCurrentPosition': is not a member of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(112,7): message : see declaration of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(196,62): error C2039: 'getCurrentPosition': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(199,26): error C2039: 'getCurrentPosition': is not a member of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(124,7): message : see declaration of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(199,65): error C2039: 'getCurrentPosition': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(210,26): error C2039: 'str': is not a member of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(112,7): message : see declaration of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(210,54): error C2039: 'str': is not a member of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(124,7): message : see declaration of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(210,84): error C2039: 'str': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(216,45): error C2039: 'num_steps': is not a member of 'Configuration'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(163,7): message : see declaration of 'Configuration'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(30,9): error C2065: 'Position': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(30,18): error C2146: syntax error: missing ';' before identifier 'arr_walls'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(30,18): error C2065: 'arr_walls': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(30,28): error C2059: syntax error: ']'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(30,32): error C2143: syntax error: missing ';' before '{'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(30,33): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(30,49): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(30,65): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(30,79): error C2143: syntax error: missing ';' before '}'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(32,9): error C2065: 'Position': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(32,18): error C2146: syntax error: missing ';' before identifier 'arr_fake_walls'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(32,18): error C2065: 'arr_fake_walls': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(32,33): error C2059: syntax error: ']'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(32,37): error C2143: syntax error: missing ';' before '{'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(32,38): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(32,52): error C2143: syntax error: missing ';' before '}'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(34,48): error C2065: 'arr_walls': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(34,75): error C2065: 'arr_fake_walls': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(36,54): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(37,27): error C2039: 'str': is not a member of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(112,7): message : see declaration of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(39,47): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(40,25): error C2039: 'str': is not a member of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(124,7): message : see declaration of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(42,47): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(43,27): error C2039: 'str': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(46,19): error C2039: 'move': is not a member of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(112,7): message : see declaration of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(47,27): error C2039: 'str': is not a member of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(112,7): message : see declaration of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(50,17): error C2039: 'move': is not a member of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(124,7): message : see declaration of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(51,25): error C2039: 'str': is not a member of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(124,7): message : see declaration of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(54,19): error C2039: 'move': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(55,27): error C2039: 'str': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(58,20): error C2664: 'bool ArrayMovingObject::add(MovingObject *)': cannot convert argument 1 from 'Criminal *' to 'MovingObject *'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(58,26): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(157,10): message : see declaration of 'ArrayMovingObject::add'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(58,20): message : while trying to match the argument list '(Criminal *)'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(59,20): error C2664: 'bool ArrayMovingObject::add(MovingObject *)': cannot convert argument 1 from 'Sherlock *' to 'MovingObject *'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(59,26): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(157,10): message : see declaration of 'ArrayMovingObject::add'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(59,20): message : while trying to match the argument list '(Sherlock *)'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(60,20): error C2664: 'bool ArrayMovingObject::add(MovingObject *)': cannot convert argument 1 from 'Watson *' to 'MovingObject *'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(60,26): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(157,10): message : see declaration of 'ArrayMovingObject::add'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(60,20): message : while trying to match the argument list '(Watson *)'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(78,9): error C2065: 'Position': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(78,18): error C2146: syntax error: missing ';' before identifier 'arr_walls'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(78,18): error C2065: 'arr_walls': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(78,28): error C2059: syntax error: ']'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(78,32): error C2143: syntax error: missing ';' before '{'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(78,33): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(78,49): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(78,65): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(78,79): error C2143: syntax error: missing ';' before '}'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(80,9): error C2065: 'Position': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(80,18): error C2146: syntax error: missing ';' before identifier 'arr_fake_walls'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(80,18): error C2065: 'arr_fake_walls': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(80,33): error C2059: syntax error: ']'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(80,37): error C2143: syntax error: missing ';' before '{'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(80,38): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(80,52): error C2143: syntax error: missing ';' before '}'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(82,48): error C2065: 'arr_walls': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(82,75): error C2065: 'arr_fake_walls': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(84,54): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(85,47): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(86,47): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(87,19): error C2039: 'move': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(89,9): error C2065: 'RobotC': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(89,18): error C2065: 'robotC': undeclared identifier
+C:\Users\ASUS\Documents\initial_btl2\main.cpp(89,1): fatal  error C1003: error count exceeds 100; stopping compilation
+  study_in_pink2.cpp
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(71,52): error C2061: syntax error: identifier 'Position'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(71,165): error C2969: syntax error: ';': expected member function definition to end with '}'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(76,7): error C2059: syntax error: '<class-head>'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(71,165): error C2630: ';' found in what should be a comma-separated list
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(77,1): error C2059: syntax error: 'private'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(79,1): error C2059: syntax error: 'public'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,14): error C2144: syntax error: 'int' should be preceded by ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,5): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,14): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,23): error C2062: type 'int' unexpected
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(82,30): error C2059: syntax error: ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,14): error C2143: syntax error: missing ')' before 'const'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,5): error C3861: 'Position': identifier not found
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,14): error C2143: syntax error: missing ';' before 'const'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,36): error C2059: syntax error: ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(84,37): error C2530: 'str_pos': references must be initialized
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(86,9): error C2270: 'getRow': modifiers not allowed on nonmember functions
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(87,9): error C2270: 'getCol': modifiers not allowed on nonmember functions
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(91,12): error C2270: 'str': modifiers not allowed on nonmember functions
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(93,10): error C2270: 'isEqual': modifiers not allowed on nonmember functions
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(99,14): error C3646: 'pos': unknown override specifier
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(99,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,44): error C2146: syntax error: missing ')' before identifier 'pos'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,44): error C3646: 'pos': unknown override specifier
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,53): error C2143: syntax error: missing ';' before '*'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,53): error C2059: syntax error: '*'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,82): error C2059: syntax error: ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(104,83): error C2238: unexpected token(s) preceding ';'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(106,22): error C3646: 'getNextPosition': unknown override specifier
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(106,38): error C2059: syntax error: ')'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(106,43): error C2238: unexpected token(s) preceding ';'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(107,14): error C3646: 'getCurrentPosition': unknown override specifier
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(107,32): error C2059: syntax error: '('
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(107,40): error C2238: unexpected token(s) preceding ';'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(117,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(117,68): error C2143: syntax error: missing ',' before '&'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(129,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(129,66): error C2143: syntax error: missing ',' before '&'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(141,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(141,40): error C2143: syntax error: missing ',' before '&'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(196,23): error C2039: 'getCurrentPosition': is not a member of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(112,7): message : see declaration of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(196,62): error C2039: 'getCurrentPosition': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(199,26): error C2039: 'getCurrentPosition': is not a member of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(124,7): message : see declaration of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(199,65): error C2039: 'getCurrentPosition': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(210,26): error C2039: 'str': is not a member of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(112,7): message : see declaration of 'Sherlock'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(210,54): error C2039: 'str': is not a member of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(124,7): message : see declaration of 'Watson'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(210,84): error C2039: 'str': is not a member of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(136,7): message : see declaration of 'Criminal'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(216,45): error C2039: 'num_steps': is not a member of 'Configuration'
+C:\Users\ASUS\Documents\initial_btl2\study_in_pink2.h(163,7): message : see declaration of 'Configuration'
+  Generating Code...
