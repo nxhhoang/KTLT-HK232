@@ -53,45 +53,25 @@ int firstMeet(int& exp1, int& exp2, int e1) {
 	float pre_exp2 = exp2;
 
 	if (e1 <= 3) {
-		if (e1 == 0) {
-			exp2 += 29;
-		}
-		else if (e1 == 1) {
-			exp2 += 45;
-		}
-		else if (e1 == 2) {
-			exp2 += 75;
-		}
-		else if (e1 == 3) {
-			exp2 += (29 + 45 + 75);
-		}
+		if (e1 == 0) exp2 += 29;
+		else if (e1 == 1) exp2 += 45;
+		else if (e1 == 2) exp2 += 75;
+		else if (e1 == 3) exp2 += (29 + 45 + 75);
 		int D = e1 * 3 + exp1 * 7;
-		if (D % 2 == 0) {
-			pre_exp1 = (int)(exp1 + D * 0.005 + 0.999);
-		}
-		else {
-			pre_exp1 = ceil(exp1 - (int)(D * 0.01));
-		}
+		if (D % 2 == 0) pre_exp1 = (int)(exp1 + D * 0.005 + 0.999);
+		else pre_exp1 = ceil(exp1 - (int)(D * 0.01));
 		exp1 = pre_exp1;
 	}
 	else {
-		if (e1 >= 4 && e1 <= 19) {
-			pre_exp2 += (int)(e1 * 0.25 + 0.999) + 19; //attention //check new testcase before submitting
-		}
-		else if (e1 >= 20 && e1 <= 49) {
-			pre_exp2 += (int)(e1 * 0.111111 + 0.999) + 21; //attention //check new testcase before submitting
-		}
-		else if (e1 >= 50 && e1 <= 65) {
-			pre_exp2 += (int)(e1 * 0.0625 + 0.999) + 17; //attention //check new testcase before submitting
-		}
+		if (e1 >= 4 && e1 <= 19) pre_exp2 += (int)(e1 * 0.25 + 0.999) + 19; //attention //check new testcase before submitting
+		else if (e1 >= 20 && e1 <= 49) pre_exp2 += (int)(e1 * 0.111111 + 0.999) + 21; //attention //check new testcase before submitting
+		else if (e1 >= 50 && e1 <= 65) pre_exp2 += (int)(e1 * 0.0625 + 0.999) + 17; //attention //check new testcase before submitting
 		else if (e1 >= 66 && e1 <= 79) {
 			pre_exp2 += (int)(e1 * 0.25 + 0.999) + 19;
 			exp2 = pre_exp2;
 			exp2 = valueChange(exp2, 0, 600);
 			pre_exp2 = exp2;
-			if (pre_exp2 > 200) {
-				pre_exp2 += (int)(e1 * 0.111111 + 0.999) + 21;
-			}
+			if (pre_exp2 > 200) pre_exp2 += (int)(e1 * 0.111111 + 0.999) + 21;
 		}
 		else if (e1 >= 80 && e1 <= 99) {
 			pre_exp2 += (int)(e1 * 0.25 + 0.999) + 19;
