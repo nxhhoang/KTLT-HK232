@@ -104,20 +104,15 @@ float probability(int nearbyVal) {
 	int n = sqrt(nearbyVal);
 	float newVal = 1;
 	newVal = nearbyVal;
-	if ((nearbyVal - n * n) > ((n + 1) * (n + 1) - nearbyVal)) {
+	if ((nearbyVal - n * n) > ((n + 1) * (n + 1) - nearbyVal)) 
 		//cout << fixed << setprecision(2);
-		float P1 = (newVal / ((n + 1) * (n + 1)) + 80) / 123;
-		return P1;
-	}
-	else {
-		return 1;
-	}
+	return (newVal / ((n + 1) * (n + 1)) + 80) / 123;
+	else return 1;
 }
 
 int traceLuggage(int& HP1, int& EXP1, int& M1, int E2) {
 	// TODO: Complete this function
 	if (E2 < 0 || E2>99) return -99;
-
 	valueChange(HP1, 0, 666);
 	valueChange(EXP1, 0, 600);
 	valueChange(M1, 0, 3000);
