@@ -394,12 +394,8 @@ int checkCondition4(const char* s, char se[], int length_s, int size_se) {
 		if (s[i] == se[0]) {
 			if (size_se == 1) return -(300 + (i));
 			int k = 0;
-			for (int j = 0; j < size_se; j++) {
-				if (s[i + j] == se[j]) k++;
-			}
-			if (k == size_se) {
-				return -(300 + (i)); // neu chuoi s co chua chuoi se
-			}
+			for (int j = 0; j < size_se; j++) if (s[i + j] == se[j]) k++;
+			if (k == size_se) return -(300 + (i)); // neu chuoi s co chua chuoi se
 		}
 	}
 	return -1;
@@ -478,10 +474,7 @@ int findCorrectPassword(const char* arr_pwds[], int num_pwds) {
 	// TODO: Complete this function
 	const char* dem_pwds[30];
 	int dem[30];
-	for (int i = 0; i < 30; i++) {
-		dem[i] = 0;
-	}
-
+	for (int i = 0; i < 30; i++) dem[i] = 0;
 	int count = 0;
 	// Tim so cac chuoi khac nhau
 	for (int i = 0; i < num_pwds; i++) {
@@ -514,17 +507,11 @@ int findCorrectPassword(const char* arr_pwds[], int num_pwds) {
 
 	int max = dem[0];
 	int count_dem = 0;
-	for (int i = 0; i < count; i++) {
-		if (max < dem[i]) max = dem[i]; //so lan xuat hien nhieu nhat cua mot chuoi trong day
-	}
+	for (int i = 0; i < count; i++) if (max < dem[i]) max = dem[i]; //so lan xuat hien nhieu nhat cua mot chuoi trong day
 
 	int max_length = 0;
-
-	for (int i = 0; i < count; i++) {
-		if (dem[i] == max) {
-			if (max_length < length[i]) max_length = length[i];
-		}
-	}
+	for (int i = 0; i < count; i++) 
+		if (dem[i] == max) if (max_length < length[i]) max_length = length[i];
 
 	int vitri = 0;
 
