@@ -1,0 +1,16 @@
+node *createLinkedList(int n)
+{
+// TO DO
+	if (n<=0) return nullptr;
+	node* head = nullptr;
+	while(n > 0) {
+		node* newNode = new node;
+		newNode->next = head;
+		int k;
+		cin >> k;
+		newNode->data = k;
+		head = newNode;
+		n--;
+	}
+	return head;
+}
