@@ -1,0 +1,6 @@
+bool isSymmetry(int *head, int *tail)
+{
+	if (head >= tail) return 1;
+	if (*head != *tail) return 0;
+	return isSymmetry(head + 1, tail - 1);
+}
